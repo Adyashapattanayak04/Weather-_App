@@ -1,0 +1,11 @@
+form {
+  margin-top: 3rem;
+}
+
+form input[name="city"],
+form input[name="country"] {
+  background-color: transparent;
+  color: white;
+  
+  border: 2px solid rgb(8,121, rgb(118, 159, 197));
+}
